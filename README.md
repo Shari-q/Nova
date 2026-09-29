@@ -1,4 +1,4 @@
-# NOVA Luxury Footwear
+<img src="assest/Nova-Logo.png" alt="NOVA Luxury Footwear" width="360" align="right" />
 
 A premium, responsive luxury sneaker storefront built with HTML, CSS, and vanilla JavaScript. The project is designed as a modern front-end e-commerce experience for sneaker enthusiasts, combining editorial-style visuals, product discovery, cart flows, and a polished luxury brand aesthetic.
 
